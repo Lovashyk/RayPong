@@ -1,0 +1,3 @@
+/home/lvsh/RayPong/CMakeFiles/rpong.dir
+/home/lvsh/RayPong/CMakeFiles/edit_cache.dir
+/home/lvsh/RayPong/CMakeFiles/rebuild_cache.dir
