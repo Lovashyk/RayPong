@@ -4,3 +4,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(RayPong VERSION 1.0)
 add_executable(rpong main.cpp)
+target_include_directories(rpong PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)

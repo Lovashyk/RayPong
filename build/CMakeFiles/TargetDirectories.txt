@@ -1,3 +1,0 @@
-/home/ok/RayPong/build/CMakeFiles/pong.dir
-/home/ok/RayPong/build/CMakeFiles/edit_cache.dir
-/home/ok/RayPong/build/CMakeFiles/rebuild_cache.dir

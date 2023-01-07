@@ -9,9 +9,9 @@ void DrawScore() {
 
             DrawText(TextFormat("Score: %08i", Ball::score), 100, 10, 20, RED);
 
-            DrawText(TextFormat("HiScore: %08i", hiscore), 300, 10, 20, GREEN);
+            DrawText(TextFormat("HiScore: %08i", Ball::hiscore), 300, 10, 20, GREEN);
 
-            DrawText(TextFormat("Lives: %02i", lives), 550, 10, 20, BLUE);
+            DrawText(TextFormat("Lives: %02i", Ball::lives), 550, 10, 20, BLUE);
 
             DrawText(TextFormat("Elapsed Time: %02.02f ms", GetFrameTime()*1000), 300, 370, 20, WHITE);
      EndDrawing();
