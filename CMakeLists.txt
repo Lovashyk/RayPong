@@ -8,3 +8,4 @@ add_executable(rpong main.cpp
 	src/Paddle.cpp)
 target_compile_features(rpong PRIVATE cxx_std_17)
 target_include_directories(rpong PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_link_libraries(rpong raylib)
