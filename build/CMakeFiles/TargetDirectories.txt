@@ -1,3 +1,3 @@
-/home/oleksandr/RayPong/build/CMakeFiles/rpong.dir
-/home/oleksandr/RayPong/build/CMakeFiles/edit_cache.dir
-/home/oleksandr/RayPong/build/CMakeFiles/rebuild_cache.dir
+/home/ok/RayPong/build/CMakeFiles/rpong.dir
+/home/ok/RayPong/build/CMakeFiles/edit_cache.dir
+/home/ok/RayPong/build/CMakeFiles/rebuild_cache.dir

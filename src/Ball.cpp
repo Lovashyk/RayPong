@@ -1,4 +1,4 @@
-#include "Ball.h"
+#include "../include/Ball.h"
 
 
 void Ball::Draw() {

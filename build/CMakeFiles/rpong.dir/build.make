@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/oleksandr/RayPong
+CMAKE_SOURCE_DIR = /home/ok/RayPong
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/oleksandr/RayPong/build
+CMAKE_BINARY_DIR = /home/ok/RayPong/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/rpong.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/rpong.dir/progress.make
 include CMakeFiles/rpong.dir/flags.make
 
 CMakeFiles/rpong.dir/main.cpp.o: CMakeFiles/rpong.dir/flags.make
-CMakeFiles/rpong.dir/main.cpp.o: /home/oleksandr/RayPong/main.cpp
+CMakeFiles/rpong.dir/main.cpp.o: /home/ok/RayPong/main.cpp
 CMakeFiles/rpong.dir/main.cpp.o: CMakeFiles/rpong.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/oleksandr/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rpong.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/main.cpp.o -MF CMakeFiles/rpong.dir/main.cpp.o.d -o CMakeFiles/rpong.dir/main.cpp.o -c /home/oleksandr/RayPong/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ok/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rpong.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/main.cpp.o -MF CMakeFiles/rpong.dir/main.cpp.o.d -o CMakeFiles/rpong.dir/main.cpp.o -c /home/ok/RayPong/main.cpp
 
 CMakeFiles/rpong.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rpong.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/oleksandr/RayPong/main.cpp > CMakeFiles/rpong.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ok/RayPong/main.cpp > CMakeFiles/rpong.dir/main.cpp.i
 
 CMakeFiles/rpong.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rpong.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/oleksandr/RayPong/main.cpp -o CMakeFiles/rpong.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ok/RayPong/main.cpp -o CMakeFiles/rpong.dir/main.cpp.s
 
 CMakeFiles/rpong.dir/src/Ball.cpp.o: CMakeFiles/rpong.dir/flags.make
-CMakeFiles/rpong.dir/src/Ball.cpp.o: /home/oleksandr/RayPong/src/Ball.cpp
+CMakeFiles/rpong.dir/src/Ball.cpp.o: /home/ok/RayPong/src/Ball.cpp
 CMakeFiles/rpong.dir/src/Ball.cpp.o: CMakeFiles/rpong.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/oleksandr/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/rpong.dir/src/Ball.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/src/Ball.cpp.o -MF CMakeFiles/rpong.dir/src/Ball.cpp.o.d -o CMakeFiles/rpong.dir/src/Ball.cpp.o -c /home/oleksandr/RayPong/src/Ball.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ok/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/rpong.dir/src/Ball.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/src/Ball.cpp.o -MF CMakeFiles/rpong.dir/src/Ball.cpp.o.d -o CMakeFiles/rpong.dir/src/Ball.cpp.o -c /home/ok/RayPong/src/Ball.cpp
 
 CMakeFiles/rpong.dir/src/Ball.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rpong.dir/src/Ball.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/oleksandr/RayPong/src/Ball.cpp > CMakeFiles/rpong.dir/src/Ball.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ok/RayPong/src/Ball.cpp > CMakeFiles/rpong.dir/src/Ball.cpp.i
 
 CMakeFiles/rpong.dir/src/Ball.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rpong.dir/src/Ball.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/oleksandr/RayPong/src/Ball.cpp -o CMakeFiles/rpong.dir/src/Ball.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ok/RayPong/src/Ball.cpp -o CMakeFiles/rpong.dir/src/Ball.cpp.s
 
 CMakeFiles/rpong.dir/src/Paddle.cpp.o: CMakeFiles/rpong.dir/flags.make
-CMakeFiles/rpong.dir/src/Paddle.cpp.o: /home/oleksandr/RayPong/src/Paddle.cpp
+CMakeFiles/rpong.dir/src/Paddle.cpp.o: /home/ok/RayPong/src/Paddle.cpp
 CMakeFiles/rpong.dir/src/Paddle.cpp.o: CMakeFiles/rpong.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/oleksandr/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/rpong.dir/src/Paddle.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/src/Paddle.cpp.o -MF CMakeFiles/rpong.dir/src/Paddle.cpp.o.d -o CMakeFiles/rpong.dir/src/Paddle.cpp.o -c /home/oleksandr/RayPong/src/Paddle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ok/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/rpong.dir/src/Paddle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rpong.dir/src/Paddle.cpp.o -MF CMakeFiles/rpong.dir/src/Paddle.cpp.o.d -o CMakeFiles/rpong.dir/src/Paddle.cpp.o -c /home/ok/RayPong/src/Paddle.cpp
 
 CMakeFiles/rpong.dir/src/Paddle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rpong.dir/src/Paddle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/oleksandr/RayPong/src/Paddle.cpp > CMakeFiles/rpong.dir/src/Paddle.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ok/RayPong/src/Paddle.cpp > CMakeFiles/rpong.dir/src/Paddle.cpp.i
 
 CMakeFiles/rpong.dir/src/Paddle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rpong.dir/src/Paddle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/oleksandr/RayPong/src/Paddle.cpp -o CMakeFiles/rpong.dir/src/Paddle.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ok/RayPong/src/Paddle.cpp -o CMakeFiles/rpong.dir/src/Paddle.cpp.s
 
 # Object files for target rpong
 rpong_OBJECTS = \
@@ -125,7 +125,7 @@ rpong: CMakeFiles/rpong.dir/src/Ball.cpp.o
 rpong: CMakeFiles/rpong.dir/src/Paddle.cpp.o
 rpong: CMakeFiles/rpong.dir/build.make
 rpong: CMakeFiles/rpong.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/oleksandr/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable rpong"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ok/RayPong/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable rpong"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/rpong.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/rpong.dir/clean:
 .PHONY : CMakeFiles/rpong.dir/clean
 
 CMakeFiles/rpong.dir/depend:
-	cd /home/oleksandr/RayPong/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/oleksandr/RayPong /home/oleksandr/RayPong /home/oleksandr/RayPong/build /home/oleksandr/RayPong/build /home/oleksandr/RayPong/build/CMakeFiles/rpong.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ok/RayPong/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ok/RayPong /home/ok/RayPong /home/ok/RayPong/build /home/ok/RayPong/build /home/ok/RayPong/build/CMakeFiles/rpong.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rpong.dir/depend
 

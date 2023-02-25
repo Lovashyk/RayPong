@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/oleksandr/RayPong/main.cpp" "CMakeFiles/rpong.dir/main.cpp.o" "gcc" "CMakeFiles/rpong.dir/main.cpp.o.d"
-  "/home/oleksandr/RayPong/src/Ball.cpp" "CMakeFiles/rpong.dir/src/Ball.cpp.o" "gcc" "CMakeFiles/rpong.dir/src/Ball.cpp.o.d"
-  "/home/oleksandr/RayPong/src/Paddle.cpp" "CMakeFiles/rpong.dir/src/Paddle.cpp.o" "gcc" "CMakeFiles/rpong.dir/src/Paddle.cpp.o.d"
+  "/home/ok/RayPong/main.cpp" "CMakeFiles/rpong.dir/main.cpp.o" "gcc" "CMakeFiles/rpong.dir/main.cpp.o.d"
+  "/home/ok/RayPong/src/Ball.cpp" "CMakeFiles/rpong.dir/src/Ball.cpp.o" "gcc" "CMakeFiles/rpong.dir/src/Ball.cpp.o.d"
+  "/home/ok/RayPong/src/Paddle.cpp" "CMakeFiles/rpong.dir/src/Paddle.cpp.o" "gcc" "CMakeFiles/rpong.dir/src/Paddle.cpp.o.d"
   )
 
 # Targets to which this target links.

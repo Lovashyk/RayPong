@@ -1,6 +1,6 @@
 #include "raylib.h"
-#include "Ball.h"
-#include "Paddle.h"
+#include "include/Ball.h"
+#include "include/Paddle.h"
 
 
 int main() {
