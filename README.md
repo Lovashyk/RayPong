@@ -9,7 +9,9 @@ Requirements
 
 Installation
 --------
+
 ##Linux
+
 1. Ensure that you installed RayLib and CMake;
 2. Clone the repository:
 ```
