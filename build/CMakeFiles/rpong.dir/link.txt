@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rpong.dir/main.cpp.o CMakeFiles/rpong.dir/src/Ball.cpp.o CMakeFiles/rpong.dir/src/Paddle.cpp.o -o rpong  -lraylib 

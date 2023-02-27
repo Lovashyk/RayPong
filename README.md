@@ -9,7 +9,7 @@ Requirements
 
 Installation
 --------
-###Linux
+##Linux
 1. Ensure that you installed RayLib and CMake;
 2. Clone the repository:
 ```
@@ -44,12 +44,15 @@ FAQ
 -----
 
 Q: Will you proceed working on it? 
+
 A: I will try to deploy it for every platform to make it playable. That's it. No new features.
 
-Q: Can I use the code? 
+Q: Can I use the code?
+
 A: If you need, you may.
 
 Q:Can I fix your code?
+
 A:Of course, I would be glad to see a masterclass from more experienced people.
 
 
